@@ -6,8 +6,11 @@ The objective of the project is to help businesses identify factors contributing
 
 Technologies & Tools Used: Power BI, DAX, Power Query, Microsoft Excel/CSV, Data Visualization, KPI Reporting, Forecasting, Customer Segmentation, and Business Analytics techniques.
 
-# Visualization
+# Visualization Preview
 
+![Churn Dashboard](executive-overview.png)
+![Churn Dashboard](customer-segmentation.png)
+![Churn Dashboard](risk-insights.png)
 
 
 
